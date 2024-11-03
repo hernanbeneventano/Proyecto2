@@ -1,0 +1,60 @@
+/* reset.css */
+
+/* Remove default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Set a consistent line-height */
+body {
+    line-height: 1.5;
+    font-family: Arial, sans-serif;
+}
+
+/* Style for headings */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+}
+
+/* Lists */
+ul, ol {
+    list-style: none;
+}
+
+/* Tables */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Anchors */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Inputs and buttons */
+input, button {
+    font-family: inherit;
+    font-size: inherit;
+    border: none;
+    background: none;
+}
+
+/* Optional: Set a default background color */
+body {
+    background-color: #fff; /* Cambia este color según tus necesidades */
+}
+
+/* Optional: Set a default text color */
+body {
+    color: #333; /* Cambia este color según tus necesidades */
+}
